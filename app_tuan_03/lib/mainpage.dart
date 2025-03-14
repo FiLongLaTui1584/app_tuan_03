@@ -52,15 +52,15 @@ class _MainpageState extends State<Mainpage> {
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.contact_mail),
-            label: 'Contact',
+            label: 'Contacthricueahvr',
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.supervised_user_circle),
-            label: 'Info',
+            label: 'Infokweefiugwefviu',
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.person),
-            label: 'Register',
+            label: 'Registerrrrrr888',
           ),
         ],
         currentIndex: _selectedIndex,
